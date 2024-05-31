@@ -1,8 +1,6 @@
-# README_FRONT
-
 Welcome to my GitHub profile! I am Antonio, a dedicated Master's student in Data Science and Business Analytics at the Complutense University of Madrid. With extensive business experience in London and Spain across various industries, I am now steering my career towards data analysis and big data.
 
-🎓 Education
+## 🎓 Education
 - Master's in Data Science, Big Data, and Business Analytics
 Complutense University of Madrid
 GPA: 8.5
@@ -14,28 +12,27 @@ City University of London
 University of Murcia
 GPA: 7.5
 
-# 💼 Professional Experience
+## 💼 Professional Experience
 - Data Analyst (Student)
 - Skills: MySQL, Python, MongoDB, Tableau
 - Location: Madrid
 
-# Business Experience
+## Business Experience
 - Roles: Various positions in the food, leisure, and industrial machinery and supplies sectors
 - Locations: London and Spain
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 - Programming Languages: Python, SQL
 - Tools and Platforms: MySQL, MongoDB, Oracle, Tableau, GitHub, GCP, PowerBI, Azure, Databricks, Spark
 - Libraries: Pandas, NumPy, Django
-# 📚 Certifications
+## 📚 Certifications
 - SQL: Hackerrank
-- IBM Data Science: IBM
 - MySQL: Oracle
-# 🌍 Languages
+## 🌍 Languages
 - Spanish (Native)
 - English (Native)
 - Portuguese (Basic)
-# 📊 Highlighted Projects
+## 📊 Highlighted Projects
 - Machine Learning Competition
 Participated in a data competition to predict water pump status using multiclass classification techniques.
 
