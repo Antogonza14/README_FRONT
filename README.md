@@ -1,52 +1,55 @@
-Welcome to my GitHub profile! I am Antonio, a dedicated Master's student in Data Science and Business Analytics at the Complutense University of Madrid. With extensive business experience in London and Spain across various industries, I am now steering my career towards data analysis and big data.
+# 👋 Welcome to my GitHub Profile!
+
+Hello! I’m **Antonio**, a recent **Master’s graduate in Data Science, Big Data, and Business Analytics** from the Complutense University of Madrid. With extensive experience across various industries in both **London** and **Spain**, I’ve pivoted my career towards **data analysis** and **big data** to bring data-driven insights into business.
 
 ## 🎓 Education
-- Master's in Data Science, Big Data, and Business Analytics
-Complutense University of Madrid
-GPA: 8.5
+- **Master’s in Data Science, Big Data, and Business Analytics**  
+  Complutense University of Madrid  
+  **Final GPA:** 9.08 / 10
 
-- Course in Integrated Marketing
-City University of London
+- **Integrated Marketing Course**  
+  City University of London
 
-- Bachelor's in Business Administration and Management
-University of Murcia
-GPA: 7.5
+- **Bachelor’s in Business Administration and Management**  
+  University of Murcia  
+  **GPA:** 7.5 / 10
 
 ## 💼 Professional Experience
-- Data Analyst (Student)
-- Skills: MySQL, Python, MongoDB, Tableau
-- Location: Madrid
+### Data Analyst (Student)
+- **Skills:** MySQL, Python, MongoDB, Tableau
+- **Location:** Madrid, Spain
 
-## Business Experience
-- Roles: Various positions in the food, leisure, and industrial machinery and supplies sectors
-- Locations: London and Spain
+### Business Experience
+- **Roles:** Various positions in food, leisure, and industrial machinery and supplies sectors
+- **Locations:** London, UK & Spain
 
 ## 🛠️ Technical Skills
-- Programming Languages: Python, SQL
-- Tools and Platforms: MySQL, MongoDB, Oracle, Tableau, GitHub, GCP, PowerBI, Azure, Databricks, Spark
-- Libraries: Pandas, NumPy, Django
+- **Programming Languages:** Python, SQL
+- **Tools and Platforms:** MySQL, MongoDB, Oracle, Tableau, GitHub, GCP, Power BI, Azure, Databricks, Spark
+- **Libraries:** Pandas, NumPy, Django
+
 ## 📚 Certifications
-- SQL: Hackerrank
-- MySQL: Oracle
+- **SQL:** Hackerrank
+- **MySQL:** Oracle
+
 ## 🌍 Languages
-- Spanish (Native)
-- English (Native)
-- Portuguese (Basic)
+- **Spanish:** Native
+- **English:** Native
+- **Portuguese:** Basic
+
 ## 📊 Highlighted Projects
-- Machine Learning Competition
-Participated in a data competition to predict water pump status using multiclass classification techniques.
+### Machine Learning Competition
+Participated in a predictive competition to determine the operational status of water pumps, using multiclass classification techniques for real-world application.
 
-- Statistical Analysis for Hypertension Medication
-Conducted a detailed analysis of the efficacy of an innovative medication using advanced statistical techniques.
+### Statistical Analysis for Hypertension Medication
+Conducted a comprehensive analysis of a new medication’s effectiveness, employing advanced statistical methods to provide data-backed insights.
 
-- Business Intelligence with Tableau
-Developed visualizations and dashboards to analyze financing operations and loans, providing insights for decision-making.
+### Business Intelligence with Tableau
+Designed interactive visualizations and dashboards to analyze financing operations and loan data, aiding in strategic decision-making.
 
-- SQL Database Management
-Implemented and managed SQL databases for financial operations analysis, optimizing queries for efficient data extraction.
+### SQL Database Management
+Developed and managed SQL databases for in-depth analysis of financial operations, optimizing queries to improve data extraction efficiency.
 
-- Python Programming
-Developed an interactive Python game, showcasing programming skills and logical application.
+---
 
-- Advanced Data Visualization
-Created interactive and narrative data visualizations to communicate complex analysis results to non-technical stakeholders.
+Feel free to connect if you’re interested in discussing data science, visualization, or if you’d like to collaborate on projects!
