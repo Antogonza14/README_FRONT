@@ -51,5 +51,6 @@ Designed interactive visualizations and dashboards to analyze financing operatio
 Developed and managed SQL databases for in-depth analysis of financial operations, optimizing queries to improve data extraction efficiency.
 
 ---
+Leveraging data to shape not just our entertainment choices, but to envision and build the future we aspire to live in. 🌟🌏
 
 Feel free to connect if you’re interested in discussing data science, visualization, or if you’d like to collaborate on projects!
